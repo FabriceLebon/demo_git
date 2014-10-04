@@ -1,4 +1,4 @@
 demo_git
 ========
 
-mocc git
+repository de test du mocc git
